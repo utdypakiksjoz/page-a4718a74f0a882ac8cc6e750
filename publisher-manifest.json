@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "06774608747680320dff81e2",
+  "owner": "utdypakiksjoz",
+  "repo": "page-a4718a74f0a882ac8cc6e750",
+  "title": "贵的一皮",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a4718a74f0a882ac8cc6e750",
+      "a": "贵的一皮",
+      "b": "2027官方最新地址导航",
+      "entity": "贵的一皮",
+      "brand": "贵的一皮",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f35f1c31ba56dfe66a39c16096f552f3e03dbc7d1536d13c0d7bfa03884b73a0",
+      "content": {
+        "primary_entity": "贵的一皮",
+        "keyword1": "贵的一皮",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，贵的一皮提供按月或按年订阅的海外加速服务，基础版、旗舰版与团队版分别对应轻度浏览、流媒体游戏与多设备高带宽场景，用户可依据设备数量与流量需求选择合适套餐并参考客户端文档完成订阅配置。",
+          "AI_HERO_SUBTITLE": "贵的一皮，灵活套餐轻松选",
+          "AI_HERO_INTRO": "贵的一皮是面向跨境访问场景的海外加速器，提供按月与按年订阅方式，覆盖基础版、旗舰版和团队版三档配置，支持多设备在线与流媒体解锁，方便按实际用量与设备数量选择。",
+          "AI_VISUAL_TITLE": "贵的一皮，加速选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "多设备同时在线的配置",
+          "AI_HIGHLIGHT_3": "月付年付计费周期灵活",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个角度匹配套餐，避免多花或不够用。",
+          "AI_FEATURE_TITLE_1": "按流量选档位",
+          "AI_FEATURE_TEXT_1": "每月100GB适合日常浏览与消息应用，300GB适合流媒体和游戏，1000GB适合高频下载与团队共享。",
+          "AI_FEATURE_TITLE_2": "按设备数量选",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备，旗舰版支持5台，团队版支持20台，多人共用时优先考虑团队版。",
+          "AI_FEATURE_TITLE_3": "按使用周期付费",
+          "AI_FEATURE_TEXT_3": "基础版年付150元，旗舰版年付350元，团队版年付850元，长期使用可摊薄每月支出。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统的订阅导入方式不同，建议根据设备类型选择对应客户端并按文档配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版月付15元适合3台设备轻度使用，旗舰版月付35元覆盖5台设备并带IPLC专线，团队版月付85元支持20台设备与VIP高带宽节点。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_GUIDE_INTRO": "明确设备与流量需求后，按客户端文档完成订阅导入即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版和团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统版本与客户端支持情况，核对同时在线设备数量是否满足需要。",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "按照所选客户端文档导入订阅信息，完成后即可在对应设备上使用加速服务。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，跨境访问更顺畅",
+          "AI_CLOSING_TEXT": "结合设备数量与流量需求挑一档套餐，按客户端文档配置后开始使用贵的一皮。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "贵的一皮三档套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "先看常用设备数量：3 台以内选基础版，5 台左右选旗舰版，多人共享或设备较多选团队版。再对照月流量，100GB 适合轻度使用，300GB 覆盖日常视频，1000GB 适合高频或团队场景。",
+          "AI_FAQ_QUESTION_2": "订阅可以同时在多台设备上使用吗？",
+          "AI_FAQ_ANSWER_2": "可以，但受套餐设备数限制。基础版最多 3 台，旗舰版 5 台，团队版 20 台。超出数量后新设备可能无法建立连接，需要升档或减少同时在线设备。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "功能与流量相同，区别在计费周期。基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，折算下来年付比月付更省，适合确定长期使用的用户。",
+          "AI_FAQ_QUESTION_4": "旗舰版和基础版线路有什么不同？",
+          "AI_FAQ_ANSWER_4": "基础版使用普通线路节点池；旗舰版增加 IPLC 专线游戏加速优化和全节点原生流媒体解锁，对延迟和流媒体需求较高的用户更合适。",
+          "AI_FAQ_QUESTION_5": "订阅导入后连不上怎么办？",
+          "AI_FAQ_ANSWER_5": "先确认订阅链接是否完整粘贴、设备数量是否超出套餐限制，再检查客户端版本是否为当前推荐版本。如仍无法连接，可通过工单提供设备系统与客户端名称，便于排查。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jpnwlev.cn",
+    "host": "jpnwlev.cn"
+  },
+  "file_hashes": {
+    "index.html": "69d7bb03e4e620eb05f01d33d4bcd8752589b3720c4d5809fd8a5975a5bb7484",
+    "sitemap.xml": "1fd005f02be560b9cdf4ccb5a71a984da0aab0359b5b2ea90862cfcfa47a09c4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "378736964a2b4ffa0d462ca2a20d4c5fcb0e0dcf7127da646124cb5878fa2eb3",
+    "robots.txt": "d7d266338ed594028c1bb668e0f13292481abf30be349d818a84452e1ce5c374",
+    "faab483bf617e4df668a68b1b59e1a14.txt": "3d08ec41b5049e21155ce7e3fb03cb03559f00ede87114c5567d4994f105da0d"
+  },
+  "revision": "dd8bcd8b94f1fa6a12137ea0ddc3b479d2aecd4c22655c3af3c237f0c564c30c"
+}
